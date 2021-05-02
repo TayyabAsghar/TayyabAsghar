@@ -34,7 +34,7 @@
 ![Tayyab Asghar's github stats](https://github-readme-stats.vercel.app/api?username=TayyabAsghar&show_icons=true&hide_border=true&count_private=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&hide=python&layout=compact&hide_border=true&count_private=true&theme=onedark)
 
-## Connect with me <img src="assets/Handshake.gif" width="32px" />
+## Connect with me <img src="assets/Handshake.gif" height="32px" />
 
 | [![ldin]][lac] | [![gm]][gmac] | [![sof]][sofac] |
 | :------------: | :-----------: | :-------------: |

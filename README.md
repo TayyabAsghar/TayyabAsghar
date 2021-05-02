@@ -31,8 +31,8 @@
 
 #
 
-![Tayyab Asghar's github stats](https://github-readme-stats.vercel.app/api?username=TayyabAsghar&show_icons=true&hide_border=true&count_private=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&hide=python&layout=compact&hide_border=true&count_private=true&theme=onedark)
+![Tayyab Asghar's github stats][stat]
+![Top Langs][lang]
 
 ## Connect with me <img src="assets/Handshake.gif" height="32px" />
 
@@ -49,6 +49,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[stat]: https://github-readme-stats.vercel.app/api?username=TayyabAsghar&show_icons=true&hide_border=true&count_private=true&theme=onedark
+[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&hide=python&layout=compact&hide_border=true&count_private=true&theme=onedark
 
 <!-- "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" -->
 

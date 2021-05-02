@@ -36,12 +36,10 @@
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px" />
 
-|<a href="https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/">
-<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>|<a href="mailto:muhammadtayyabasghar@gmail.com"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>|<a href="https://stackoverflow.com/users/12767370/m-tayyab-asghar/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>|
+<a href="mailto:muhammadtayyabasghar@gmail.com"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>|<a href="https://stackoverflow.com/users/12767370/m-tayyab-asghar/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>|
 
-| [![ldin]][lac] | [![ldin]][lac] | [![ldin]][lac] |
-| :------------: | :------------: | :------------: |
+| [![ldin]][lac] | [![gm]][gmac] | [![ldin]][lac] |
+| :------------: | :-----------: | :------------: |
 
 <!--
 - 🔭 I’m currently working on ...
@@ -56,3 +54,5 @@
 
 [ldin]: assets/linkedin.svg
 [lac]: https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/
+[gm]: assets/gmail.svg
+[gmac]: mailto:muhammadtayyabasghar@gmail.com

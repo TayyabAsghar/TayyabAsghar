@@ -1,18 +1,5 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px"> , I'm Tayyab Asghar! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<a href="https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<!-- <a href="https://twitter.com/msaaddev">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
-<a href="mailto:muhammadtayyabasghar@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://stackoverflow.com/users/12767370/m-tayyab-asghar/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
-
 <br />
 
 - 🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/).
@@ -46,6 +33,12 @@
 
 ![Tayyab Asghar's github stats](https://github-readme-stats.vercel.app/api?username=TayyabAsghar&show_icons=true&hide_border=true&count_private=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&hide=python&layout=compact&hide_border=true&count_private=true&theme=onedark)
+
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px" />
+
+|<a href="https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/">
+<img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>|<a href="mailto:muhammadtayyabasghar@gmail.com"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>|<a href="https://stackoverflow.com/users/12767370/m-tayyab-asghar/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>|
 
 <!--
 - 🔭 I’m currently working on ...

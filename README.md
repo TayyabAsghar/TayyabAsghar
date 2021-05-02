@@ -40,6 +40,8 @@
 <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>|<a href="mailto:muhammadtayyabasghar@gmail.com"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>|<a href="https://stackoverflow.com/users/12767370/m-tayyab-asghar/"><img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" /></a>|
 
+|[![][ldin]][lac]|[![][ldin]][lac]|[![][ldin]][lac]|
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -50,3 +52,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[ldin]: assets/linkedin.svg
+[lac]: https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/

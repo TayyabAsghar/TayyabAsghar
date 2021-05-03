@@ -8,7 +8,7 @@
 
 - 🎨 Hobbies: App Development, Animations & 🍿 Movies.
 
-- ⚡ Fun fact: I made the following table 10x8 leaving 20 cells for 🔮 technologies as it will be impossible for me to add new cells in table after some days when I have forgotten the code.
+- ⚡ Fun fact: I made the following table 10x8 leaving 60 cells for 🔮 technologies as it will be impossible for me to add new cells in table after some days when I have forgotten the code.
 
 ## Top 🛠️ Tools & 📙 Languages
 

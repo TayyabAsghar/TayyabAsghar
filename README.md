@@ -2,44 +2,58 @@
 
 <br />
 
-- 🎓 Pursuing a bachelor's degree in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/).
+- 👨🏻‍💻 Previously at [Rolustech](rolustech.com) as Softwear Engineer.
 
-- 🔭 Currently working in MERN Stack for 🌐 Development & Flutter for 📱 App Development.
+- 🎓 Graduated with a major in Computer Science from the [University of Engineering & Technology Lahore](https://uet.edu.pk/).
+
+- 🔭 Currently working in MEAN Stack and learning MERN Stack for Web Development.
+
+- 👯 Creating and contributing to open-source code & content.
 
 - 🎨 Hobbies: App Development, Animations & 🍿 Movies.
 
-- ⚡ Fun fact: I made the following table 10x8 leaving 60 cells for 🔮 technologies as it will be impossible for me to add new cells in table after some days when I have forgotten the code.
+## 🌐 Socials:
 
-## Top 🛠️ Tools & 📙 Languages
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabasghar)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12767370)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@muhammadtayyabasghar)
 
-|  Languages:   |  Frameworks   | Runtime Environments |   DataBase    |   Platforms   |    Editors    |      VCS      |    Others     |
-| :-----------: | :-----------: | :------------------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-|    ![][js]    |    ![][rc]    |       ![][njs]       |   ![][tsql]   |   ![][crm]    |   ![][code]   |   ![][git]    |   ![][ter]    |
-|   ![][dat]    |   ![][flu]    |     <!-- 3.2 -->     |   ![][mdb]    |   ![][and]    |  ![][stdio]   | <!-- 7.2 -->  | <!-- 8.2 -->  |
-|   ![][cpp]    |   ![][mui]    |     <!-- 3.3 -->     |    ![][fb]    |   ![][ios]    |    ![][fm]    | <!-- 7.3 -->  | <!-- 8.3 -->  |
-|    ![][c#]    | <!-- 2.4 -->  |     <!-- 3.4 -->     | <!-- 4.4 -->  | <!-- 5.4 -->  | <!-- 6.4 -->  | <!-- 7.4 -->  | <!-- 8.4 -->  |
-|   ![][asm]    | <!-- 2.5 -->  |     <!-- 3.5 -->     | <!-- 4.5 -->  | <!-- 5.5 -->  | <!-- 6.5 -->  | <!-- 7.5 -->  | <!-- 8.5 -->  |
-| <!-- 1.6 -->  | <!-- 2.6 -->  |     <!-- 3.6 -->     | <!-- 4.6 -->  | <!-- 5.6 -->  | <!-- 6.6 -->  | <!-- 7.6 -->  | <!-- 8.6 -->  |
-| <!-- 1.7 -->  | <!-- 2.7 -->  |     <!-- 3.7 -->     | <!-- 4.7 -->  | <!-- 5.7 -->  | <!-- 6.7 -->  | <!-- 7.7 -->  | <!-- 8.7 -->  |
-| <!-- 1.8 -->  | <!-- 2.8 -->  |     <!-- 3.8 -->     | <!-- 4.8 -->  | <!-- 5.8 -->  | <!-- 6.8 -->  | <!-- 7.8 -->  | <!-- 8.8 -->  |
-| <!-- 1.9 -->  | <!-- 2.9 -->  |     <!-- 3.9 -->     | <!-- 4.9 -->  | <!-- 5.9 -->  | <!-- 6.9 -->  | <!-- 7.9 -->  | <!-- 8.9  --> |
-| <!-- 1.10 --> | <!-- 2.10 --> |    <!--  3.10 -->    | <!-- 4.10 --> | <!-- 5.10 --> | <!-- 6.10 --> | <!-- 7.10 --> | <!-- 8.10 --> |
+# 💻 Tech Stack:
 
-<!--
- Commented the empty cells of the Table. The numbers will help in placing the future Logos in Table.
- -->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br />
 
-#
+# 📊 GitHub Stats:
 
-![Tayyab Asghar's github stats][stat]
-![Top Langs][lang]
-
-## Connect with me <img src="assets/Handshake.gif" height="32px" />
-
-| [![ldin]][lac] | [![gm]][gmac] | [![sof]][sofac] |
-| :------------: | :-----------: | :-------------: |
+![](https://github-readme-stats.vercel.app/api?username=TayyabAsghar&theme=dark&hide_border=false&include_all_commits=true&count_private=true) &nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabAsghar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -51,40 +65,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png -->
-
-[js]: assets/js.png
-[rc]: assets/react.png
-[njs]: assets/nodejs.png
-[tsql]: assets/tsql.png
-[crm]: assets/chrome.png
-[code]: assets/vs-code.png
-[git]: assets/git.png
-[ter]: assets/terminal.png
-[dat]: assets/dart.png
-[flu]: assets/flutter.png
-[mdb]: assets/mongodb.png
-[and]: assets/android.svg
-[stdio]: assets/visual-studio.svg
-[cpp]: assets/cpp.png
-[mui]: assets/material-ui.png
-[fb]: assets/firebase.svg
-[ios]: assets/ios.png
-[fm]: assets/figma.svg
-[c#]: assets/csharp.png
-[asm]: assets/x86-64-assembly.png
-
-<!-- -->
-
-[stat]: https://github-readme-stats.vercel.app/api?username=TayyabAsghar&show_icons=true&hide_border=true&count_private=true&theme=onedark
-[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabAsghar&hide=python&layout=compact&hide_border=true&count_private=true&theme=onedark
-
-<!-- "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" -->
-
-[ldin]: assets/linkedin.svg
-[lac]: https://www.linkedin.com/in/muhammad-tayyab-asghar-033a0b196/
-[gm]: assets/gmail.svg
-[gmac]: mailto:muhammadtayyabasghar@gmail.com
-[sof]: assets/stackoverflow.svg
-[sofac]: https://stackoverflow.com/users/12767370/m-tayyab-asghar/
